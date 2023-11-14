@@ -1,10 +1,8 @@
 # Francesco Scorca
-I'm Francesco from Italy, I am a recently graduated "engineer" at Politecnico di Torino. I am passionate about Machine Learning, its mathematical and algorithmic foundations, and the interpretation of its outcomes. 
+I'm Francesco from Italy, I am a Data Scientist with a background in Computer Science and Automation. I am passionate about Machine Learning, its mathematical and algorithmic foundations, and its impact on cross-disciplinary problems. 
 
-## Skills and Experience
-* 🔭 Machine Learning (Deep Learning, Reinforcement Learning, ...)
+## Skills 
+* 🔭 Machine Learning (Deep Learning, Reinforcement Learning, ...), Statistics, Data Analysis, AI-on-the-Edge
 * 💻 Python, Java, SQL
-
-
 
 
